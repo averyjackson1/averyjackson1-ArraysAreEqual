@@ -16,7 +16,7 @@ public class ArraysAreEqual {
      * @param b the second array.
      * @return true if the values of a are equal to the values of b.
      */
-
+ 
 
 
     public boolean equal(int[] a, int[] b){
